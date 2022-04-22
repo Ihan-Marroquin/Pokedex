@@ -1,0 +1,31 @@
+.Contenido {
+    align-items: center;
+}
+
+.Caja {
+    width: 100vh;
+    display: table-cell;
+    padding: 70px;
+    margin-bottom: 15px;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 40px;
+}
+
+img{
+    display: block;
+    margin: 0px auto;
+}
+.H1{
+    color: bisque;
+    background-color:blueviolet;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0%;
+}
